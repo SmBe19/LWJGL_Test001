@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="lwjgl">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/jar" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl/doc/javadoc.zip!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl/native" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl/src.zip!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/libs/lwjgl/jar" recursive="false" />
+  </library>
+</component>
